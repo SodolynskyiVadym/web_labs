@@ -1,0 +1,66 @@
+header{
+    background-color: #53b0c0;
+    height: 60px;
+}
+
+.logo{
+    width: 60px;
+    height: 60px;
+}
+
+.butt-head{
+    width: 160px;
+    height: 60px;
+    color: #dedede;
+    background-color: #2d281f;
+    float: right;
+}
+
+.sidebar{
+    float: left;
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px;
+    text-align: left;
+}
+
+a:hover{
+    color: brown;
+}
+
+.table-right{
+    float: right;
+}
+
+table img{
+    width: 200px;
+    height: 150px;
+    box-shadow: 10px 10px 10px 10px #6e6363;
+    border-radius: 70px;
+}
+
+table img:hover{
+    transform: scale(1.3);
+}
+
+footer{
+    clear: both;
+    background-color: #292980;
+}
+
+footer table{
+    width: 100%;
+    margin: 0 auto;
+}
+
+footer th, td{
+    color: white;
+    text-align: left;
+}
+
+
+
+
+
+
+
